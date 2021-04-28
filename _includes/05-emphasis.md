@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Lubie pić **piwko** w PARKU._ **Ale tylko jak jest cieplo** a co mi tam.
